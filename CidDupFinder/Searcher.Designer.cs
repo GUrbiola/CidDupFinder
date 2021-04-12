@@ -47,14 +47,14 @@ namespace CidDupFinder
             this.listLog.ItemHeight = 16;
             this.listLog.Location = new System.Drawing.Point(0, 0);
             this.listLog.Name = "listLog";
-            this.listLog.Size = new System.Drawing.Size(589, 673);
+            this.listLog.Size = new System.Drawing.Size(615, 737);
             this.listLog.TabIndex = 0;
             // 
             // Searcher
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(589, 673);
+            this.ClientSize = new System.Drawing.Size(615, 737);
             this.Controls.Add(this.listLog);
             this.Name = "Searcher";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
